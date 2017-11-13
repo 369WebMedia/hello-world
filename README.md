@@ -1,6 +1,6 @@
 # hello-world
-My first repository
 
-Hi coderXavi here.
+Hi peeps coderXavi here.
+
 I don't know shait about coding,
-hope to learn soon.
+but hope to learn soon.
